@@ -69,10 +69,6 @@ your-repo-name/
 - For large images, consider adding resizing logic in `app.py` to improve performance.
 - To customize the UI (e.g., bounding box colors, table format), modify `app.py`.
 
-## Contributors
-- https://github.com/omkarjavali
-- https://github.com/D-6503
-
 ## Acknowledgments
 - Built with Streamlit and Ultralytics YOLOv8.
 - Thanks to the open-source community for robust tools!
